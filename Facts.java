@@ -31,7 +31,7 @@ public class Facts
         System.out.println("Speed of ketchup: " + 40 + "km per year");
     
     
-        int num;
-        String name;
+        int num = 0;
+        String name = "new";
     }
 }
