@@ -14,10 +14,11 @@ public class ScanPractice
         System.out.println("Enter a line of text:");
 
         String word = scan.next();
+        System.out.println(word);
 
         String line = scan.nextLine();
 
-        System.out.println(word);
+        
         System.out.println(line);
 
         // DecimalFormat fmt = new DecimalFormat("0.###");
